@@ -3,6 +3,7 @@ The COVID - 19 pandemic is devastating mankind irrespective of caste, creed, gen
 Face detection is a branch of image processing that uses machine learning to detect faces in images . Face Mask Detection System uses existing IP cameras and CCTV cameras combined with Computer Vision to detect people without masks and alert the person who are not wearing mask.
 
 APPLICATIONS:
+
 1.Our face mask detector didn't use any morphed masked images dataset.
 2.The model is accurate, and since we used the MobileNetV2 architecture, it’s also computationally efficient and thus making it easier to deploy the model to embedded systems (Raspberry Pi, Google Coral, etc.).
 3.This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
