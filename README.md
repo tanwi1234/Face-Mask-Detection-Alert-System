@@ -26,9 +26,12 @@ The images used were real images of faces wearing masks. The images were collect
 Our Goal is to train a custom deep learning model to detect whether a person is or is not wearing a mask.
 
 METHODOLOGY TO BE FOLLOWED:
+
 1.Training: Here,focus on loading our face mask detection dataset from disk, training a model   
-(using Keras / TensorFlow) on this dataset, and then serializing the face mask detector to disk.  
-2.Deployment:Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with mask or without mask.   
+(using Keras / TensorFlow) on this dataset, and then serializing the face mask detector to disk.
+
+2.Deployment:Once the face mask detector is trained, we can then move on to loading the mask detector, performing face detection, and then classifying each face as with mask or without mask. 
+
 3.Alert system:After denying access to the person, authorities will get an alert email in real- time where the person’s photo will be attached. May be screen panels could be installed at the entrances where a person when denied can see a pop-up Warning Message where he/she would be advised to wear a mask before getting access 
 
 CONCLUSION:   
