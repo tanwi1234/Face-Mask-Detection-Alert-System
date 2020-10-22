@@ -5,9 +5,7 @@ from tensorflow.keras.models import load_model
 from tensorflow.keras.applications.mobilenet_v2 import preprocess_input
 import numpy as np
 
-cascPath = os.path.dirname(
-    cv2.__file__) + "/data/haarcascade_frontalface_alt2.xml"
-faceCascade = cv2.CascadeClassifier(cascPath)
+faceCascade= cv2.CascadeClassifier("haarcascade_frontalface_default.xml")
 model = load_model("mask_recog_ver2.h5")
 
 video_capture = cv2.VideoCapture(0)
