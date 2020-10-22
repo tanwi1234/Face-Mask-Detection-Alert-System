@@ -8,6 +8,7 @@ APPLICATIONS:
 3.This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed.
 
 TECH/FRAMEWORK USED:
+
 1.OPENCV  
 2.TENSORFLOW  
 3.KERAS  
@@ -17,8 +18,10 @@ TECH/FRAMEWORK USED:
 DATASET:
 This dataset consists of 3835 images belonging to two classes:   
 •	With mask : 1916 images          
-•	Without mask : 1919 images   
-The images used were real images of faces wearing masks. The images were collected from the following sources: 
+•	Without mask : 1919 images  
+
+The images used were real images of faces wearing masks. The images were collected from the following sources:
+
 •	Bing Search API 
 •	Kaggle datasets 
 •	RMFD dataset 
