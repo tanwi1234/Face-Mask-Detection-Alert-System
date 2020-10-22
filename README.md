@@ -1,5 +1,6 @@
 # Face-Mask-Detection-Alert-System
 The COVID - 19 pandemic is devastating mankind irrespective of caste, creed, gender, and religion. Until a vaccine is discovered, we should do our bit to constrain the expanse of the coronavirus. Using a facemask can undoubtedly help in managing the spread of the virus. COVID - 19 face mask detector uses or owns Facemask net, deep learning techniques to successfully test whether a person is with wearing a face mask or not and alert them if they are not wearing mask at a time.
+
 Face detection is a branch of image processing that uses machine learning to detect faces in images . Face Mask Detection System uses existing IP cameras and CCTV cameras combined with Computer Vision to detect people without masks and alert the person who are not wearing mask.
 
 APPLICATIONS:
@@ -42,6 +43,9 @@ METHODOLOGY TO BE FOLLOWED:
 
 CONCLUSION:   
 Addressing the wide spread use of face masks as a preventive measure to the COVID-19 pandemic spread, we presented an exploratory study on the effect of wearing masks on face recognition performance in collaborative scenarios. We presented a specifically collected database captured in two different sessions, with and without wearing a mask, and is part of an ongoing effort to gather a larger scale database with realistic variations.   
+
+REFERENCES:
+https://www.mygreatlearning.com/blog/real-time-face-detection/
   
 
 
