@@ -19,7 +19,7 @@ TECH/FRAMEWORK USED:
 4.FACE DETECTOR  
 5.MOBILE NET V2 
 
-DATASET:
+DATASET:click to download https://drive.google.com/drive/folders/1XDte2DL2Mf_hw4NsmGst7QtYoU7sMBVG?usp=sharing
 This dataset consists of 3835 images belonging to two classes:   
 •	With mask : 1916 images          
 •	Without mask : 1919 images  
