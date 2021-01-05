@@ -66,13 +66,18 @@ OUTPUT:
 
 ![nomask](https://user-images.githubusercontent.com/65597267/103619306-7fcfb580-4f57-11eb-871a-819338c328ef.PNG)
 
+**IMPROPER MASK**
+
+![improper](https://user-images.githubusercontent.com/65597267/103625725-629fe480-4f61-11eb-8fb5-e104592be62e.png)
 
 ALERT SYSTEM:
 
 ![ALERT](https://user-images.githubusercontent.com/65597267/103623660-67af6480-4f5e-11eb-858d-b183c4f16010.png)
 
 VIDEO STREAM:
+
 https://user-images.githubusercontent.com/65597267/103624029-f6bc7c80-4f5e-11eb-81f3-5cb45543a174.mp4
+
 
 
 CONCLUSION:   
