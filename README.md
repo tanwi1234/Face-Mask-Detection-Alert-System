@@ -44,6 +44,15 @@ OUTPUT: Model give 92% accuracy for Face Mask Detection  after Training.
 
 3.Alert system:After denying access to the person, authorities will get an alert email in real- time where the person’s photo will be attached. May be screen panels could be installed at the entrances where a person when denied can see a pop-up Warning Message where he/she would be advised to wear a mask before getting access 
 
+OUTPUT:
+
+![withmask](https://user-images.githubusercontent.com/65597267/103619290-78a8a780-4f57-11eb-9517-0f7367a10a3c.PNG)
+![nomask](https://user-images.githubusercontent.com/65597267/103619306-7fcfb580-4f57-11eb-871a-819338c328ef.PNG)
+![facedetector](https://user-images.githubusercontent.com/65597267/103619337-8bbb7780-4f57-11eb-912a-7ddb7a699dc7.PNG)
+![plot](https://user-images.githubusercontent.com/65597267/103619611-0be1dd00-4f58-11eb-8dbc-437474060002.png)
+![Screenshot (829)](https://user-images.githubusercontent.com/65597267/103619702-359b0400-4f58-11eb-86cc-cd751f1a08be.png)
+
+
 CONCLUSION:   
 Addressing the wide spread use of face masks as a preventive measure to the COVID-19 pandemic spread, we presented an exploratory study on the effect of wearing masks on face recognition performance in collaborative scenarios. We presented a specifically collected database captured in two different sessions, with and without wearing a mask, and is part of an ongoing effort to gather a larger scale database with realistic variations.   
 
