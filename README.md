@@ -46,11 +46,26 @@ OUTPUT: Model give 92% accuracy for Face Mask Detection  after Training.
 
 OUTPUT:
 
-![withmask](https://user-images.githubusercontent.com/65597267/103619290-78a8a780-4f57-11eb-9517-0f7367a10a3c.PNG)
-![nomask](https://user-images.githubusercontent.com/65597267/103619306-7fcfb580-4f57-11eb-871a-819338c328ef.PNG)
+**FACE DETECTION USING OPENCV**
+
 ![facedetector](https://user-images.githubusercontent.com/65597267/103619337-8bbb7780-4f57-11eb-912a-7ddb7a699dc7.PNG)
+
+**ACCURACY FOR FACE MASK DETECTION AFTER TRAINING:**
+
+![accuracy](https://user-images.githubusercontent.com/65597267/103621953-01c1dd80-4f5c-11eb-8e73-75b082504d8b.PNG)
+
+ **PLOT OF FACE MASK DETECTION AFTER TRAINING OF MODEL**
+
 ![plot](https://user-images.githubusercontent.com/65597267/103619611-0be1dd00-4f58-11eb-8dbc-437474060002.png)
-![Screenshot (829)](https://user-images.githubusercontent.com/65597267/103619702-359b0400-4f58-11eb-86cc-cd751f1a08be.png)
+
+**WITH MASK:**
+
+![withmask](https://user-images.githubusercontent.com/65597267/103619290-78a8a780-4f57-11eb-9517-0f7367a10a3c.PNG)
+
+**WITHOUT MASK:**
+
+![nomask](https://user-images.githubusercontent.com/65597267/103619306-7fcfb580-4f57-11eb-871a-819338c328ef.PNG)
+
 
 
 CONCLUSION:   
