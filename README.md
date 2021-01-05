@@ -67,6 +67,10 @@ OUTPUT:
 ![nomask](https://user-images.githubusercontent.com/65597267/103619306-7fcfb580-4f57-11eb-871a-819338c328ef.PNG)
 
 
+ALERT SYSTEM:
+
+![ALERT](https://user-images.githubusercontent.com/65597267/103623660-67af6480-4f5e-11eb-858d-b183c4f16010.png)
+
 
 CONCLUSION:   
 Addressing the wide spread use of face masks as a preventive measure to the COVID-19 pandemic spread, we presented an exploratory study on the effect of wearing masks on face recognition performance in collaborative scenarios. We presented a specifically collected database captured in two different sessions, with and without wearing a mask, and is part of an ongoing effort to gather a larger scale database with realistic variations.   
